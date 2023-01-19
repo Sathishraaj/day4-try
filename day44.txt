@@ -1,0 +1,24 @@
+FEATURED
+ChatGPT
+DALL·E 2
+Whisper
+Alignment
+Startup Fund
+API
+Overview
+Pricing
+Examples
+Docs
+The Boring Company (TBC) is an American infrastructure and tunnel construction services company founded by Elon Musk. Its ongoing and proposed projects are
+ designed for intra-city ("loop") transit systems.
+
+After six years TBC has completed one out of six publicly announced projects. The only operational one is situated inside the Las Vegas convention center (LVCC)
+ and operates on limited days for loop travel during conventions. It connects the LVCC West Hall to the existing campus over a stretch of 1.7 miles with an average 
+speed of 30mph in non-autonomous regular Tesla 3 cars that are steered by a driver, despite a promise to have 150mph average speeds and autonomous "sleek custom pods". 
+The majority of Las Vegas local residents are not served by the LVCC limited transportation system. The TBC completed one tunnel for testing in Los Angeles County. During 
+the opening of the test tunnel at the end of 2018, it was described as "just a regular Tesla driving through a paved tunnel".[8] Many other TBC projects have been announced and
+ subsequently became inactive or were cancelled and are widely considered a failure. Proposed projects in Los Angeles, Chicago, and Baltimore were ultimately scrapped due 
+to escalating cost calculations by TBC and inactivity by TBC. The Wall Street Journal described the lack of follow up from TBC as "ghosting American cities".
+
+The Boring Company was formed as a subsidiary of SpaceX, before separating in 2018. As of December 2018, 90% of the equity was owned by Musk,
+ with 6% held by SpaceX in return for the use of SpaceX resources during the startup of the company. Outside investments during 2019 changed the equity split.
